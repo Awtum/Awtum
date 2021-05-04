@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Awtum
-- I’m interested in using genomics/transcriptomic analysis methods to understand the transmission and evolution of malaria parasites. 
+- I use genomic/transcriptomic analysis methods to understand the transmission and evolution of malaria parasites. 
 - To achieve my goals, I’m constantly looking to expand my computational skill set and learn new programming techniques.
 - I’m open to collaboration and consultation for projects which have potential real-world impacts on global health. 
 - You may email me at awtum @ usf.edu.
